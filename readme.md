@@ -11,7 +11,7 @@
 KLOTZ is a 34 key column-staggered split keyboard running [KMK]() or [ZMK](https://zmk.dev/). It supports a low profile encoder and three status LEDs on every side.
 You can find the ZMK firmware [here](https://github.com/GEIGEIGEIST/zmk-config-klotz).
 
-![KLOTZ layout](/docs/images/KLOTZ_layout.svg)
+![KLOTZ layout](https://raw.githubusercontent.com/GEIGEIGEIST/zmk-config-klotz/master/docs/images/KLOTZ_layout.svg)
 
 
 ## HOW TO USE
